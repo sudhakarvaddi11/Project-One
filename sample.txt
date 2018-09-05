@@ -1,0 +1,4 @@
+This is a sample file
+This line is added using Nano
+This is third line
+This line is added using vim
